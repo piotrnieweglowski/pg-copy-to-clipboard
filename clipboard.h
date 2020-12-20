@@ -1,0 +1,1 @@
+void SetClipboardText(const char* text);
